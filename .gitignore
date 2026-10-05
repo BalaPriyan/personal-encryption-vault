@@ -1,0 +1,29 @@
+# Gradle build artifacts and caches
+.gradle/
+build/
+
+# Do not ignore Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Compiled class files & packages
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS specific
+.DS_Store
+Thumbs.db

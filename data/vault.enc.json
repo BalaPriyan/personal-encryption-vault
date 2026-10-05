@@ -1,0 +1,185 @@
+{
+  "version": "2.0-AI-GCM",
+  "saltBase64": "a+ptXIX5VDhxf5Mc1HTrCA\u003d\u003d",
+  "passwordVerifierHash": "6hNI6Ng+OjHkZzM/5IJIsiXm0qmzLg6cU2VDck81LFM\u003d",
+  "duressPinHash": "aE5WWUgGKB90PGBrFGkdU94iCMmX9OaoD1WyPafEq3s\u003d",
+  "kdfIterations": 65536,
+  "algorithm": "AES/GCM/NoPadding",
+  "createdAt": 1791183679542,
+  "lastModifiedAt": 1791184221835,
+  "items": [
+    {
+      "id": "2b5d7534-32a2-44e3-aaa5-e9419138e54d",
+      "title": "AWS Production Cloud Infrastructure Keys",
+      "category": "API_KEY",
+      "ciphertextBase64": "leZ5cM1BUqQ2SxIIm58FqzwawWbfd844w+jfiwGMVtZgmlv16Ay9nO8xXjzzEuMCXdc2ycDprEjqpRlZRYMWJ0YpMgBaVqHVhc2KnXQNfOZehJOb7E9rp0E2wP03iepH0efHLU9vWXwEY3mrGNSVr0NtzBJUA9KDdZ3NyRh1XRzO",
+      "ivBase64": "lU5HgAflVbZbn24k",
+      "createdAt": 1791183679676,
+      "updatedAt": 1791183679676,
+      "riskLevel": "CRITICAL",
+      "entropyScore": 100,
+      "aiTags": [
+        "#Cloud",
+        "#AWS"
+      ],
+      "previewDescription": "AKIAIOSFODNN7EXAMPLE\nwJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\nRegion: us-east...",
+      "fileSize": 113
+    },
+    {
+      "id": "901544a7-e1fa-40f1-8412-9a8bceb2740e",
+      "title": "OpenAI LLM Production Agent Key",
+      "category": "API_KEY",
+      "ciphertextBase64": "f6hoR/+c+RFdWu2iem8Limjsn06BfsbyfPpyO9mGToECWrJKY7cbav6jjNYw2zOBw8yECd0iBtOclzbwBgBD2STMBk+syBh0TUTqQWev501MnVsW9SUj02X0MfMz/zqEzQWw4p3JBLGOrESrPWBg6a/30q+XJ6OVBZ2lXjJb5FhDHIjXKxGdsfmjHMUUYmMIvUzM",
+      "ivBase64": "31jqsE6XFcxnv9VO",
+      "createdAt": 1791183679677,
+      "updatedAt": 1791183679677,
+      "riskLevel": "HIGH",
+      "entropyScore": 92,
+      "aiTags": [
+        "#AI-Service",
+        "#APIKey"
+      ],
+      "previewDescription": "sk-proj-aB99XyZ1029384756QWERTYUIOPasdfghjklzxcvbnm123456\nModel: gpt-4o\nRate ...",
+      "fileSize": 131
+    },
+    {
+      "id": "06c0c4d3-562c-42bd-8c13-9acddf4f2fda",
+      "title": "Q4 Strategic M\u0026A Valuation \u0026 Executive Summary",
+      "category": "NOTE",
+      "ciphertextBase64": "rfxypdys5W9zE1PAK/i4vNVktugsTvU12LJAfX7IckXzhxwif85xE3UjweGSjnx4NwDNkVjuunuS3/P8Ou4jxGo3RNmxSWRrMZRlzD7luebK72vyyEDPlvGkEnQz0Kk5hhtDTLAdgmOPA9Vif+h3iD0VsglgbHoFCzxzlocIPXNN3C3MyCT5kUUmsS4wv13f7l6tCn7c9JWy2AuEu32LMC6r0hshGrD4z6MyyfTB7E4MvMGYtwZzM5151GpEPg2Spv6pCdVPiD+CN4gMNdfylGNUmhETXGq7QdqxgL/VU1co4r927c6N2Dqb//Bi08sG+BP6iQVZ8KabLoFqcDwvlE8MJUEdLpd3w9W8RZBRJtY\u003d",
+      "ivBase64": "4gwB+5E7aA0EIMHX",
+      "createdAt": 1791183679678,
+      "updatedAt": 1791183679678,
+      "riskLevel": "MEDIUM",
+      "entropyScore": 66,
+      "aiTags": [
+        "#Contact"
+      ],
+      "previewDescription": "Target Acquisition: Project Horizon Cyber Security Ltd.\nValuation Cap: $45,00...",
+      "fileSize": 256
+    },
+    {
+      "id": "a82f0dad-94de-4f5c-8372-b287f7581411",
+      "title": "Primary PostgreSQL Multi-Region DB Connection",
+      "category": "CREDENTIAL",
+      "ciphertextBase64": "+/7TxLruU8FIqA3vUwNwT53QttPg69MZFrpngJJw/Wyu88M7rC/+W83cws06U9dk+VNN4cxLhbCB5Kpr8h9YYPny4qUBhlw86oCe762y7erzCfyOf+y+ZKPPtcDZYVsxdNoXXiV8SASyUsV1IxmJN3A9XZQ7CuFzF+ZVA5UNeas7YZ+atrWbKnjZYlYJxFWKPCGTDIc\u003d",
+      "ivBase64": "7YXVNvryUeCrb1I6",
+      "createdAt": 1791183679679,
+      "updatedAt": 1791183679679,
+      "riskLevel": "CRITICAL",
+      "entropyScore": 99,
+      "aiTags": [
+        "#Database"
+      ],
+      "previewDescription": "postgres://vault_superadmin:SuperVaultPassw0rd_9876543210!@db-cluster.us-east...",
+      "fileSize": 133
+    },
+    {
+      "id": "524dd834-961f-4e32-abcd-c5d0edbe57bc",
+      "title": "Identity_Passport_Digital_Backup.pdf",
+      "category": "FILE",
+      "ciphertextBase64": "g5rOQaII3Pc90L+8mAVq0z1K4tC9LiBru/VfKUw5j2xxkR/z+2iixkLU1OsdUxiRpUBS6OY9d/1VOIJVzOfj+cGL1nHEuXIp1FpbKTEuYZciEdJLJTp8NzVP9TuJWeuexUy3TVqgduuVIkqSzafpwa8UUNmhOIPCVcHov0uzRP13YL8vzl+pPFCP5GW+Hvhkki9GpWuavdZjYyxjbE7zEX0A73uIJFv9vdOZ9ZA\u003d",
+      "ivBase64": "t32DxLPl49/4smKI",
+      "createdAt": 1791183679680,
+      "updatedAt": 1791183679680,
+      "riskLevel": "LOW",
+      "entropyScore": 78,
+      "aiTags": [
+        "#EncryptedVault",
+        "#Personal"
+      ],
+      "previewDescription": "JVBERi0xLjQKJcTl8uXrp/Og0MTGCjQgMCBvYmoKPDwKL0ZpbHRlciAvRmxhdGVEZWNvZGUKL0xlb...",
+      "originalFileName": "Identity_Passport_Digital_Backup.pdf",
+      "fileSize": 157
+    },
+    {
+      "id": "c7b1dedb-2790-4ad8-bff7-af5b5a39a4d3",
+      "title": "Analyzed Item (12:40:20 PM)",
+      "category": "API_KEY",
+      "ciphertextBase64": "pHzKKsxxDH0RnkxE/bqgaOxWUyNPaRNMK/GgAwJey7CZejI/s/d8eK2iCCirpdLXmNSGUvlvitIW3dFuTG0G5FNsXqR/qSyNnoLu39ifbB+55YWMQ3Exi0FwXPT7tKFrwlYjfQhoWY/MCvRr5RBN5FF4mm77N3IsR4PO0zNp/tLPBVUDDIg9UP9Axrc64YJJHqxIdCNZpsukhavxf+ISXN4V4df46POtWhwZK76hZJH701ZYlBCa3PKqOWw\u003d",
+      "ivBase64": "gsBod8cvLQGjiwJs",
+      "createdAt": 1791184221835,
+      "updatedAt": 1791184221835,
+      "riskLevel": "CRITICAL",
+      "entropyScore": 100,
+      "aiTags": [
+        "#Cloud",
+        "#AWS"
+      ],
+      "previewDescription": "AWS_ACCESS_KEY_ID\u003dAKIAIOSFODNN7EXAMPLE\nAWS_SECRET_ACCESS_KEY\u003dwJalrXUtnFEMI/K7...",
+      "fileSize": 172
+    }
+  ],
+  "decoyItems": [
+    {
+      "id": "f495ccbd-b935-4b55-8c14-b4f7254410f5",
+      "title": "Weekly Fitness Routine \u0026 Meal Plan",
+      "category": "NOTE",
+      "ciphertextBase64": "+/P7p/IzNYGJp+MzpgJWUKXJDnGxRWV1aAZeTjEobOA/Iw+fNImwNqVeOn1BkYXyJOsStUO68WCFQj+5+glBH95Jc41HEGzMJLQDRO/v7K3A+KKMdfDME5Ti/9G+tP+4WrlvidMKMwPZxPXqEKhgeCGIlWWZEF1vxAqcTNVXIlB3eHMQUMOPmhngIXNgkxdo23jigvXV9g5ujRkWarHTzm1yrYfy1cNazA/OFEWk4TSlVNMTulSe5obi4HK4grfElt0qqpuQV9NeXzqjwst4CRj1Ly17lrM8SQ9skaTjeeeqFHuwwCbbhIWMlkDZRbGDBHMpv0nm1XQc6RaO8I16",
+      "ivBase64": "6P1FF7ZGMN1BUx9A",
+      "createdAt": 1791183679681,
+      "updatedAt": 1791183679681,
+      "riskLevel": "SAFE",
+      "entropyScore": 24,
+      "aiTags": [
+        "#Fitness",
+        "#Personal",
+        "#Health"
+      ],
+      "previewDescription": "Weekly gym schedule and meal prep instructions",
+      "fileSize": 239
+    },
+    {
+      "id": "32c95371-0f51-4ecb-bf01-2e3d20a928c9",
+      "title": "Book Recommendations 2026",
+      "category": "NOTE",
+      "ciphertextBase64": "kY9gjHyqijvhx9eM9dkz6hyL2cdfYkTF90M9iMoF64Yhn7bto+TJ4wImbnMnW53oxlv/OAwrlbECHtvMQPOrrGcPAIHFQAjMqdCkFCJ6p2TP3PUdmTvnLOPXvKtuQo38etkJZifi+d6cm/JSO3IafiuXnMp+49fe/TitlyHP0dHCUwPSR02YZGW4laJZZ0QBHmdaGTFE3QuAiqMxElUKVycynKeRJC4Tze1hoAgdSokOrE2U9BWtBXy4h3ClP1dU9W3V",
+      "ivBase64": "wmr8XM5pWirg9BtK",
+      "createdAt": 1791183679681,
+      "updatedAt": 1791183679681,
+      "riskLevel": "SAFE",
+      "entropyScore": 18,
+      "aiTags": [
+        "#Books",
+        "#ReadingList",
+        "#Personal"
+      ],
+      "previewDescription": "List of literature and engineering books to read",
+      "fileSize": 179
+    },
+    {
+      "id": "5cc553fd-f8f9-43c8-b243-1fd5bd574098",
+      "title": "Apartment Paint Color Hex Codes",
+      "category": "NOTE",
+      "ciphertextBase64": "LdJnnTBdL8FdsM1n5GxQ0B4oR1/1prDImUkPAaj0YhX8U9UjTxFHitucr3DXaps6QNCAcHgHcbxgWPyC7DZhn4IV4gaWjGhDyFnGLyi6q8w6cyHp5yljdZrFMPnXkx6SzEhkHxc9ZJkNWFdM3mcY5Vi4Z1Ja2qjxbV+EsQKm5wcT3NxFEf8T2StkBk5PgVs\u003d",
+      "ivBase64": "qwR5yhn+0x775+a2",
+      "createdAt": 1791183679681,
+      "updatedAt": 1791183679681,
+      "riskLevel": "SAFE",
+      "entropyScore": 15,
+      "aiTags": [
+        "#Home",
+        "#Decoration"
+      ],
+      "previewDescription": "Color palette swatches for home renovation",
+      "fileSize": 127
+    },
+    {
+      "id": "ea15e74c-6c16-4cf0-9d05-0ad45ef7481e",
+      "title": "Grocery \u0026 Hardware Store Checklist",
+      "category": "NOTE",
+      "ciphertextBase64": "r4g4wA2mqoNV/EQYi5+aNykQXoXLfg2ejkIyGCAlbDLusWhhZ01FKh88EKd+v7o2vaG7g5BTvVZFEB6+UCTxEzqSNC7YLqludoYtN3xkp9zlfwp1cm0wz3gJX5tPyjEQLzT+dDarLmdTF9DenXi+3p3/IqL9uPGZtxNA2lx8i/INkj+O0hfRqRqyKCaXXgD/zuLRJP+RiFf7E51P9w\u003d\u003d",
+      "ivBase64": "GgE6OI2qU+4acHMJ",
+      "createdAt": 1791183679681,
+      "updatedAt": 1791183679681,
+      "riskLevel": "SAFE",
+      "entropyScore": 12,
+      "aiTags": [
+        "#Shopping",
+        "#Home"
+      ],
+      "previewDescription": "Hardware store errands and grocery list",
+      "fileSize": 141
+    }
+  ]
+}
